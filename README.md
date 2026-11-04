@@ -2,23 +2,9 @@
 
 ## Project Overview
 
-This project investigates the relationship between social media usage and productivity using machine learning and data analytics techniques. It forms part of a postgraduate research study in Data Analytics.
-
 The study uses the **Social Media vs Productivity** dataset to examine how social media usage, digital behaviour, lifestyle characteristics and workplace-related factors are associated with actual productivity.
 
 Three machine learning algorithms are evaluated: Linear Regression, Random Forest Regression and XGBoost Regression.
-
-## Research Objectives
-
-The main research question is:
-
-**How can machine learning algorithms be applied to analyse the impact of social media usage on productivity?**
-
-The supporting research questions are:
-
-1. Which factors related to social media usage influence productivity the most?
-2. Which machine learning algorithms best predict productivity based on digital behaviour?
-3. What is the relationship between social media usage and productivity?
 
 ## Dataset
 
