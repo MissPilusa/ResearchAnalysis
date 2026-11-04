@@ -26,7 +26,7 @@ The supporting research questions are:
 
 The original dataset contains approximately 30,000 observations and 19 variables.
 
-The target variable is `actual_productivity_score`.
+The target variable is actual_productivity_score.
 
 Predictor variables include:
 
@@ -34,7 +34,7 @@ Predictor variables include:
 - **Lifestyle and behavioural characteristics:** Sleep hours, stress levels, work breaks, coffee consumption and weekly offline hours.
 - **Workplace and demographic characteristics:** Job satisfaction, working hours, job type, age and gender.
 
-The variable `perceived_productivity_score` was excluded from the predictors to reduce the risk of target leakage.
+The variable perceived_productivity_score was excluded from the predictors to reduce the risk of target leakage.
 
 ## Technologies and Libraries
 
@@ -59,7 +59,7 @@ Preprocessing included handling missing values, encoding categorical variables a
 
 After excluding observations with missing target values, 27,635 records remained for modelling.
 
-The data was divided into 80% training and 20% testing subsets using `random_state=42`.
+The data was divided into 80% training and 20% testing subsets using random_state=42.
 
 ### 2. Exploratory Data Analysis
 
